@@ -243,20 +243,3 @@ td, th {
  	margin: 2em auto;	 		
 }
 
-@media screen and (max-width: 560px) {
-	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
-		width: auto;
-	}
-
-	h1 {
-		text-align: center; 
-	}
-
-	nav {
-		position: static;
-	}
-
-	.lista-beneficios, .imagembeneficios {
-		width: 100%;
-	}
-}
