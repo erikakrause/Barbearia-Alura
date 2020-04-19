@@ -1,2 +1,8 @@
 # Barbearia-Alura
-Exercício proposto pelo instrutor na conclusão do curso de HTML5 e CSS3.
+Exercício proposto para criar página WEB, utilizando HTML e CSS.
+
+# Conhecimentos consolidados:
+Como importar vídeos e configurações do <iframe>;
+Como importar um mapa do GoogleMaps e suas configurações;
+ Criação de formulário  exigindo o uso da tag placeholder;
+ 
