@@ -1,7 +1,6 @@
-# Barbearia-Alura
+# Barbearia Alura
 Exercício proposto para criar página WEB, utilizando HTML e CSS.
 
-## Obrjetivo do projeto
 
 
 ### Conhecimentos consolidados:
